@@ -1,6 +1,6 @@
 # Implementation of ML Model for Image Classification
 
-This project demonstrates image classification using two different models: MobileNetV2 (pre-trained on ImageNet) and a custom CIFAR-10 model. The application is built using Streamlit, a framework for creating interactive web applications in Python. Users can upload images and receive predictions with confidence scores from either model. It features a sleek navigation bar for easy switching and real-time results, which is ideal for learning and practical use.
+This project demonstrates image classification using two different models: MobileNetV2 (pre-trained on ImageNet) and a custom CIFAR-10 model. The application is built using Streamlit, a framework for creating interactive web applications in Python. The application provides users with an interface to upload images and receive predictions, along with confidence scores, from either model.
 
 ## Table of Contents
 - [Installation](#installation)
